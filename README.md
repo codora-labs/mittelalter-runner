@@ -14,6 +14,6 @@ Collect arrows from Lucky Blocks, defeat enemies, and advance through procedural
 
 ## About
 
-This game was created at the [codora Game & KI Vibe Coding Mini-Workshop](https://codora.ch/kurse/game-ki-vibe-coding-mini-workshop/?occurrence=2026-03-16) during [Informatiktage 2026](https://informatiktage.ch).
+This game was created at the [codora Game & KI Vibe Coding Mini-Workshop](https://codora.ch/kurse/game-ki-vibe-coding-mini-workshop/) during [Informatiktage 2026](https://informatiktage.ch).
 
 Built with Flutter + Dart, using AI-assisted vibe coding.
